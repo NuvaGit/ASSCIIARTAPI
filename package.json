@@ -1,0 +1,13 @@
+{
+    "name": "ascii-train-animation",
+    "version": "1.0.0",
+    "description": "ASCII art animation of a train circling a name and Instagram handle",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "engines": {
+      "node": ">=14"
+    },
+    "dependencies": {}
+  } 
